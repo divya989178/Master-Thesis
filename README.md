@@ -39,7 +39,7 @@ This file consist of code for data preprocessing and the dataset split on docume
 ### Direct annotation
 Uses few and zero shot technique on open-source model (Qwen and Mistral) and closed-source Models (Gemini and Claude) to annotate the unlabeled training/test data using the libraries; outlines and pydantic to ensure strict format (JSON) of output generation.
 
-### Gold and Silver Standard:
+### Gold and Silver Standard
 
 Consists of code for BERT fine-tuning on gold and silver standard training dataset with hyperparameter optimization
 
