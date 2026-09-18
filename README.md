@@ -1,7 +1,7 @@
 
 
 # Direct vs Indirect
-This repository consists of code for the Master's Thesis **"The Comparative Evaluation of Methods and Models for Multi-Label Classification of Historical Dataset"** 
+This repository consists of code for the Master's Thesis
 
 The code for KATE and LLMaAA were adapted from [LLMaAA](https://github.com/ridiculouz/LLMaAA/tree/main) and [The Direct and Indirect Annotation](https://github.com/trister95/direct-and-indirect-annotation)
 
